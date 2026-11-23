@@ -320,4 +320,4 @@ Remettez un dépôt Git contenant :
    - la sortie de `pytest -q` ;
    - une justification du seuil `min_f1`.
 
-Barème proposé (sur 20, à valider) : suivi MLflow 3, promotion 3, données DVC 3, pipeline 4, tests 3, réponses 4.
+4. rédiger un compte-rendu complet enrichi par des commentaires, explications, des schémas et des configurations additionnelles en cas d'incompatibilités.
