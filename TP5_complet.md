@@ -6,15 +6,6 @@ Projet fil rouge : `sentiment-app`. Ce document réunit le déroulé du TP, les 
 
 ---
 
-## 0. Comment lire ce document
-
-Chaque opération du TP apparaît dans la carte de la section 1, avec trois renvois :
-
-- **Présentée dans** : la section de l'énoncé (`TP5_enonce.md`), de l'aide-mémoire (`README.md`), du support (`support-mlops-dvc-mlflow-fusionne.pdf`) ou de la présentation (`TP5_MLflow_DVC.pptx`) où elle est expliquée ;
-- **Code** : le fichier et la fonction (ou la ligne) qui l'implémentent ;
-- **Commande** : la commande à taper.
-
-Les numéros de ligne correspondent à la version livrée du projet. Si vous modifiez le code, cherchez la fonction par son nom.
 
 ---
 
